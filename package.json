@@ -1,0 +1,17 @@
+{
+  "name": "ram-ecom",
+  "version": "1.0.0",
+  "description": "E-commerce online shopping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ram Raj Kapar",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "hbs": "^4.2.0",
+    "mongoose": "^6.4.4"
+  }
+}
